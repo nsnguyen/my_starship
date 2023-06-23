@@ -1,2 +1,4 @@
 # my_starship
-My starship present
+This is my starship present
+
+location is in ~/.config/starship.toml
